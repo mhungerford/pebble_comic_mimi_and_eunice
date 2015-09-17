@@ -1,0 +1,196 @@
+{
+  "sdkVersion": "3", 
+  "uuid": "d964a8c3-3964-44a4-a571-80c8906715e6", 
+  "appKeys": {
+    "dummy": 0
+  }, 
+  "companyName": "Matthew Hungerford", 
+  "versionLabel": "1.0", 
+  "targetPlatforms": [
+    "chalk"
+  ], 
+  "longName": "mimi_comics", 
+  "shortName": "mimi_comics", 
+  "watchapp": {
+    "watchface": false
+  }, 
+  "resources": {
+    "media": [
+      {
+        "type": "raw", 
+        "name": "ANIMATION_CONFIG", 
+        "file": "animation_style_config.txt"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_COVER_S4", 
+        "file": "cover_s4.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_498_DISAPPOINTED_00", 
+        "file": "ME_498_Disappointed-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_498_DISAPPOINTED_01", 
+        "file": "ME_498_Disappointed-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_498_DISAPPOINTED_02", 
+        "file": "ME_498_Disappointed-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_502_GETOVERME_00", 
+        "file": "ME_502_GetOverMe-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_502_GETOVERME_01", 
+        "file": "ME_502_GetOverMe-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_ME_502_GETOVERME_02", 
+        "file": "ME_502_GetOverMe-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_26_00", 
+        "file": "MimiEunice_26-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_26_01", 
+        "file": "MimiEunice_26-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_26_02", 
+        "file": "MimiEunice_26-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_28_00", 
+        "file": "MimiEunice_28-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_28_01", 
+        "file": "MimiEunice_28-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_28_02", 
+        "file": "MimiEunice_28-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_29_00", 
+        "file": "MimiEunice_29-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_29_01", 
+        "file": "MimiEunice_29-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_29_02", 
+        "file": "MimiEunice_29-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_38_00", 
+        "file": "MimiEunice_38-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_38_01", 
+        "file": "MimiEunice_38-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_38_02", 
+        "file": "MimiEunice_38-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_53_00", 
+        "file": "MimiEunice_53-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_53_01", 
+        "file": "MimiEunice_53-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_53_02", 
+        "file": "MimiEunice_53-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_56_00", 
+        "file": "MimiEunice_56-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_56_01", 
+        "file": "MimiEunice_56-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_56_02", 
+        "file": "MimiEunice_56-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_70_00", 
+        "file": "MimiEunice_70-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_70_01", 
+        "file": "MimiEunice_70-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_70_02", 
+        "file": "MimiEunice_70-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_73_00", 
+        "file": "MimiEunice_73-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_73_01", 
+        "file": "MimiEunice_73-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_73_02", 
+        "file": "MimiEunice_73-02.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_76_00", 
+        "file": "MimiEunice_76-00.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_76_01", 
+        "file": "MimiEunice_76-01.png"
+      }, 
+      {
+        "type": "png", 
+        "name": "IMAGE_MIMIEUNICE_76_02", 
+        "file": "MimiEunice_76-02.png"
+      }
+    ]
+  }
+}
